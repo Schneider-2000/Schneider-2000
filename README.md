@@ -1,11 +1,12 @@
-### <h1 align="center">Abdullah Bazar </h1>
-### <h3 align="center">CEO Founder of Schnider-Technology </h3>
+### <h1 align="center">Hi 👋, I'm Abdullah Bazar </h1>
+### <h3 align="center">Frontend Developer </h3>
 
 - 👋 I'm a frontend developer ,specialist (React.js,Next.js)
 - 🏠 I live in Yemen - Mukalla.
 - 🌱 I’m currently learning.
 - 💬 Ask me about (React Js , Next Js , HTML , CSS , JAVASCRIPT ).
-- 📫 How to reach me: Website: linkedin.com/in/abdullah-bazar-783098352/ 
+- 📫 How to reach me: Website: <a href="linkedin.com/in/abdullah-bazar-783098352/">My, linked in </a> 
+- 📫 Email: <a href="mailto: o7xs2020@gmail.com">o7xs2020@gmail.com</a>
 
 <hr/>
 <h3 align="left">Connect with me:</h3>
@@ -48,14 +49,14 @@
 <br/>
 <hr/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schnider-technology&amp;show_icons=true&amp;locale=en" alt="Schnider-technology" style="max-width: 100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Schneider-2000&amp;show_icons=true&amp;locale=en" alt="Schneider-2000" style="max-width: 100%;">
 <hr/>
 <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=H-7117&amp;theme=flat&amp;no-frame=true&amp;margin-w=30" style="max-width: 100%;">
 <hr/>
 <br/>
 
-<img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs?username=Schnider-technology&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Schnider-technology"  style="max-width: 100%;">
+<img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs?username=Schneider-2000&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="Schneider-2000"  style="max-width: 100%;">
 <br/>
 <br/>
 <br/>
@@ -65,7 +66,7 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schnider-technology&theme=gruvbox_duo&hide_border=true)](https://github.com/Schnider-technology)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Schneider-2000&theme=gruvbox_duo&hide_border=true)](https://github.com/Schneider-2000)
 
 
 
